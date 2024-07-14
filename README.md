@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**Kikypochiki/Kikypochiki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Dohn Michael B. Varquez, a computer science major at Visayas State University, aspiring to become a software engineer. Here's a bit about me:
 
-Here are some ideas to get you started:
+- 🌱 I'm currently learning C, C++, and Java.
+- 💡 I'm passionate about problem-solving and building cool projects.
+- 🎮 In my free time, I enjoy playing video games and exploring new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- C
+- C++
+- Java
+
+## Connect with Me
+- LinkedIn: Your LinkedIn Profile
+- Twitter: @YourTwitterHandle
+
+Feel free to explore my repositories and connect with me! 😊
