@@ -34,19 +34,19 @@
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/https://github.com/Kikypochiki" target="_blank">
+<a href="https://github.com/Kikypochiki" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.facebook.com/https://www.facebook.com/kiky.pochiki/" target="_blank">
+<a href="https://www.facebook.com/kiky.pochiki/" target="_blank">
 <img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
 </a>
-<a href="https://instagram.com/https://www.instagram.com/you_are_notbeautiful_but_i/" target="_blank">
+<a href="https://www.instagram.com/you_are_notbeautiful_but_i/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
-<a href="https://stackoverflow.com/users/https://stackoverflow.com/users/17220865/dohn-varquez" target="_blank">
+<a href="https://stackoverflow.com/users/17220865/dohn-varquez" target="_blank">
 <img src=https://img.shields.io/badge/stackoverflow-%23F28032.svg?&style=for-the-badge&logo=stackoverflow&logoColor=white alt=stackoverflow style="margin-bottom: 5px;" />
 </a>
-<a href="https://www.youtube.com/user/https://www.youtube.com/@dohnvarquez6689" target="_blank">
+<a href="https://www.youtube.com/@dohnvarquez6689" target="_blank">
 <img src=https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white alt=youtube style="margin-bottom: 5px;" />
 </a>  
 </div>  
