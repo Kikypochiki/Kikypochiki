@@ -1,38 +1,31 @@
-### <div align="center">I'm Dohn Michael B. Varquez, a 2nd year Computer Science Student at Visayas State University</div>  
+# Hi, I'm Dohn Michael B. Varquez! 👋
 
-## Education  
+I'm a 2nd-year Computer Science student at Visayas State University. I'm passionate about coding, design, and creative problem-solving.
 
-- 💻Computer Science Student at Visayas State University  
+## 📖Education
+- Bachelor of Science in Computer Science at Visayas State University
+
+## 💻Programming Languages
+<div align="left">
+  <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="80"/>
+  <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="80"/>
+  <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="80"/>
+</div>
+
+## ⚙️Tools
+<div align="left">
+  <img src="https://img.icons8.com/color/48/000000/adobe-photoshop.png" alt="Photoshop" width="80"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-illustrator.png" alt="Illustrator" width="80"/>
+  <img src="https://img.icons8.com/color/48/000000/figma.png" alt="Figma" width="80"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-lightroom.png" alt="Lightroom" width="80"/>
+  <img src="https://img.icons8.com/color/48/000000/adobe-after-effects.png" alt="After Effects" width="80"/>
+  <img src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png" alt="VS Code" width="80"/>
+  <img src="https://img.icons8.com/color/48/000000/sublime-text.png" alt="Sublime Text" width="80"/>
+</div>
 
 <br/>  
 
-## My Skill Set 
-<div align="center">
-<table><tr><td valign="top" width="33%" align="center">
-
-### Languages  
-<div align="center">  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%" align="center">
-
-### Tools  
-<div align="center">  
-<a href="https://www.adobe.com/in/products/photoshop.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/photoshop-plain.svg" alt="Photoshop" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="50" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="50" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="50" /></a>  
-</div>
-
-</td></tr></table>  
-</div>
-<br/>  
-
-## Connect with me  
+## 🔗Connect with me  
 <div align="center">
 <a href="https://github.com/Kikypochiki" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
