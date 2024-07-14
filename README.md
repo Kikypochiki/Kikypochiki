@@ -8,9 +8,9 @@ I'm [Your Name], a computer science major at Visayas State University, aspiring 
 
 ## Skills
 <div style="display: flex; align-items: center;">
-  <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C" width="30"/>
-  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" width="30"/>
-  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="30"/>
+  <img src="https://img.icons8.com/color/96/000000/c-programming.png" alt="C" width="100"/>
+  <img src="https://img.icons8.com/color/96/000000/c-plus-plus-logo.png" alt="C++" width="100"/>
+  <img src="https://img.icons8.com/color/96/000000/java-coffee-cup-logo.png" alt="Java" width="100"/>
 </div>
 
 ## Connect with Me
