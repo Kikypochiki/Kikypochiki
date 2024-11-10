@@ -7,7 +7,6 @@ I'm a 2nd-year Computer Science student at Visayas State University. I'm passion
 
 ## 💻Programming Languages
 <div align="left">
-  <img src="https://img.icons8.com/color/48/000000/your-downloaded-sql-icon.png" alt="SQL" width="80"/>
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="80"/>
   <img src="https://img.icons8.com/color/48/000000/c-programming.png" alt="C" width="80"/>
   <img src="https://img.icons8.com/color/48/000000/c-plus-plus-logo.png" alt="C++" width="80"/>
