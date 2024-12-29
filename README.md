@@ -1,6 +1,3 @@
-<div align = "left">
-    <img src="[https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png](https://private-user-images.githubusercontent.com/74038190/240906093-9be4d344-6782-461a-b5a6-32a07bf7b34e.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MzU0Nzk2NjksIm5iZiI6MTczNTQ3OTM2OSwicGF0aCI6Ii83NDAzODE5MC8yNDA5MDYwOTMtOWJlNGQzNDQtNjc4Mi00NjFhLWI1YTYtMzJhMDdiZjdiMzRlLmdpZj9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDEyMjklMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQxMjI5VDEzMzYwOVomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWJkNWFmOTIwYzc2YTkwMmUyODQzMWFlNGJhZjY3N2MyYzgyM2Q4MGZjNDhjMTIzYTZiODljZDliMzJhZDNlMTAmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0In0.u-w3bPq-WcU3rWy2NZIV6kLBongutM4lGR1DKRUmylo)" alt="Java" width="80"/>
-</div>
 # Hi, I'm Dohn Michael B. Varquez! 👋
 
 I'm a 2nd-year Computer Science student at Visayas State University. I'm passionate about coding, design, and creative problem-solving.
