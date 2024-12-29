@@ -1,4 +1,4 @@
-<iframe src="https://giphy.com/embed/3o6ZtpxSZbQRRnwCKQ" width="480" height="322" style="" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/studiosoriginals-reaction-gifs-3o6ZtpxSZbQRRnwCKQ">via GIPHY</a></p>
+<div style="width:100%;height:0;padding-bottom:67%;position:relative;"><iframe src="https://giphy.com/embed/3o6ZtpxSZbQRRnwCKQ" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/studiosoriginals-reaction-gifs-3o6ZtpxSZbQRRnwCKQ">via GIPHY</a></p>
 # Hi, I'm Dohn Michael B. Varquez! 👋
 
 I'm a 2nd-year Computer Science student at Visayas State University. I'm passionate about coding, design, and creative problem-solving.
