@@ -1,10 +1,18 @@
 <h2> Hi, I'm Dohn Michael B. Varquez <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRxbXU3c3VjaWY2YXl5bWRxbXhxaDl3Z241NTl1aGducWtjZnJkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zeu9rJLUf0SE0Lb1Yl/giphy.webp" width="50"></h2>
 
-I'm a 2nd-year Computer Science student at Visayas State University. I'm passionate about coding, design, and creative problem-solving.
+```C
+#include <stdio.h>
 
-## 📖Education
-- Bachelor of Science in Computer Science at Visayas State University
+int main()
+{
+    printf("Dohn Michael Varquez\n");
+    printf("Computer Science Student At Visayas State University\n");
+    printf("I'm passionate about coding, design, and creative problem-solving.\n");
 
+    return 0;
+}
+
+```
 ## 💻Programming Languages
 <div align="left">
   <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo--v1.png" alt="Java" width="80"/>
