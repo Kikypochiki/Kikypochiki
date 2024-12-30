@@ -1,4 +1,4 @@
-# Hi, I'm Dohn Michael B. Varquez! 👋
+<h2> Hi, I'm Dohn Michael B. Varquez <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
 I'm a 2nd-year Computer Science student at Visayas State University. I'm passionate about coding, design, and creative problem-solving.
 
