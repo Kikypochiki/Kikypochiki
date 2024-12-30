@@ -1,4 +1,4 @@
-<h2> Hi, I'm Dohn Michael B. Varquez <img src="[https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif](https://giphy.com/stickers/HollerStudios-animation-holler-studios-anko-zeu9rJLUf0SE0Lb1Yl)" width="50"></h2>
+<h2> Hi, I'm Dohn Michael B. Varquez <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYzRxbXU3c3VjaWY2YXl5bWRxbXhxaDl3Z241NTl1aGducWtjZnJkeiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zeu9rJLUf0SE0Lb1Yl/giphy.webp" width="50"></h2>
 
 I'm a 2nd-year Computer Science student at Visayas State University. I'm passionate about coding, design, and creative problem-solving.
 
